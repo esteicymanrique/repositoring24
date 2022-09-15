@@ -9,5 +9,8 @@ package com.ciclo3.proyectog24;
  * @author Esteicy
  */
 public class Ejercicio1 {
+    public void metodo(){
+          system.out.println("logica metodo");  
+    }
     
 }
